@@ -1,0 +1,13 @@
+### Intellij ###
+.idea/
+*.iml
+.DS_Store
+
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Module directories
+.terraform/
